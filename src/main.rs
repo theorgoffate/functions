@@ -1,3 +1,5 @@
+mod patterns;
+
 fn main() {}
 
 fn hello(name: String) -> String {
